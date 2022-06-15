@@ -1,0 +1,11 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "main.scss",
+        "parciales/_card.scss",
+        "parciales/_grid.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}

@@ -1,0 +1,2 @@
+"build-css": "node-sass --include-path scss sass/main.css css/style.css",
+"watch-css": "nodemon -e scss -x \ "nom run build-css\""
